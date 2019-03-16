@@ -1,0 +1,46 @@
+font{
+    color:black;
+}
+
+.bcf{
+    background-color:yellow;
+    padding:80px 20px 30px 20px;
+}
+
+.header{
+    background-color: blue;
+    height:200px;
+    border:2px solid black
+}
+
+.nav-bar{
+    background-color:green;
+    height: 30px;
+    border:2px solid black;
+}
+
+.content{
+    background-color:red;
+    height:200px;
+    border:2px solid black;
+}
+.aside{
+    background-color:turquoise;
+    height:200px;
+    border:2px solid black;
+}
+
+.promo{
+    background-color:orange;
+    height:150px;
+    border: 2px solid black;
+}
+.footer{
+    background-color:black;
+    height: 30px;
+    border: 2px solid black;
+}
+
+.font{
+    color:white;
+}
